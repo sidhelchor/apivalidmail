@@ -1,0 +1,1 @@
+https://verify.gmass.co/verify?email='+eml+'&key=52d5d6dd-cd2b-4e5a-a76a-1667aea3a6fc
